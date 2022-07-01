@@ -9,7 +9,11 @@
 		"format": "prettier --write .",
 		"lint": "eslint --fix . --ext .js,.jsx"
 	},
-	"dependencies": 
+	"dependencies": {
+		"@emotion/react": "^11.9.3",
+		"@emotion/styled": "^11.9.3",
+		"@mui/icons-material": "^5.8.4",
+		"@mui/material": "^5.8.6",
 		"react": "^18.0.0",
 		"react-dom": "^18.0.0"
 	},
